@@ -132,3 +132,4 @@ searchInput.addEventListener('input', searchNotes);
 // Initialize
 loadNotes();
 render();
+   // Task 5: localStorage and search feature complete
